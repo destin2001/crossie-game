@@ -1,6 +1,6 @@
 import { queueMove } from '../stores/player'
 import useEventListeners from '../hooks/useEventListeners'
-import './controls.css'
+import './Controls.css'
 
 export function Controls() {
   useEventListeners()

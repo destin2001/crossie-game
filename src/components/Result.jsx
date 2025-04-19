@@ -1,5 +1,5 @@
 import useStore from '../stores/game'
-import './result.css'
+import './Result.css'
 
 export function Result() {
   const status = useStore((state) => state.status)
