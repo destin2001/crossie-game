@@ -1,6 +1,6 @@
 import { Forest } from './Forest'
 import { CarLane } from './Carlane'
-import { TruckLane } from './TruckLane'
+import { TruckLane } from './Trucklane'
 
 export function Row({ rowIndex, rowData }) {
   switch (rowData.type) {
