@@ -3,7 +3,7 @@ import { Player } from './components/Player'
 import { Map } from './components/Map'
 import { Score } from './components/Score'
 import { Controls } from './components/Control'
-import { Result } from './components/result'
+import { Result } from './components/Result'
 import './game.css'
 
 export default function Game() {
