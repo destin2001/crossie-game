@@ -1,5 +1,5 @@
 import { Forest } from './Forest'
-import { CarLane } from './CarLane'
+import { CarLane } from './Carlane'
 import { TruckLane } from './TruckLane'
 
 export function Row({ rowIndex, rowData }) {
